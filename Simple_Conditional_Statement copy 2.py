@@ -1,0 +1,6 @@
+a = input("give me a word: ")
+print(a.split(","))
+print(a.capitalize())
+print(a.replace("a","b"))
+print(a.lower())
+print(a.upper())
